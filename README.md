@@ -1,6 +1,6 @@
 <!--## Hi there 👋-->
 
-<<h1 align="center">Hi 👋, I'm SEJAL PRAMOD KUMAR</h1>
+<h1 align="center">Hi 👋, I'm SEJAL PRAMOD KUMAR</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
 <img align="right" alt ="coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif">
 
