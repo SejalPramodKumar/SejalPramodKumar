@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <<h1 align="center">Hi 👋, I'm SEJAL PRAMOD KUMAR</h1>
 <h3 align="center">A passionate Computer Science Student from India</h3>
